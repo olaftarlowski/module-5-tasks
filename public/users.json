@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Andrzej",
+      "age": 24
+    },
+    {
+      "id": 2,
+      "firstName": "Pawel",
+      "age": 33
+    },
+    {
+      "id": 3,
+      "firstName": "Mirek",
+      "age": 11
+    },
+    {
+      "id": 4,
+      "firstName": "Pawel",
+      "age": 72
+    },
+    {
+      "id": 5,
+      "firstName": "Henryk",
+      "age": 62
+    },
+    {
+      "id": 6,
+      "firstName": "Lukasz",
+      "age": 21
+    },
+    {
+      "id": 7,
+      "firstName": "Rafal",
+      "age": 63
+    },
+    {
+      "id": 8,
+      "firstName": "Karol",
+      "age": 12
+    }
+  ]
+}
